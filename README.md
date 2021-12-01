@@ -1,5 +1,8 @@
 # Dataitgirls Final Project
 ## 당근을 흔들어조
+
+### 전처리
+
 ### 장소
 
 1. 장소위치 뽑기
